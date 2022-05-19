@@ -1,0 +1,6 @@
+/.vscode
+/__pycache__
+/data
+/imdb.lvldb
+/name.basics.tsv.gz
+/title.basics.tsv.gz
